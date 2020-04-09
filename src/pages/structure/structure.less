@@ -1,0 +1,27 @@
+.structure{
+   
+    box-sizing: border-box;
+    padding:0 1vw;
+    .structure_cntainer{
+        width: 100vw;
+        display: flex;
+        flex-wrap: wrap;
+        
+        .items{
+            position: relative;
+            img{
+                width:49.5vw
+            }
+            .floating{
+                position: absolute;
+                width:49.5vw;
+                height:39.75vw;
+                top:0;
+    
+                background:rgba(0,0,0,0);
+                transition: height 1s linear;
+            }
+        }
+        
+    }
+}

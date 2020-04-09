@@ -1,0 +1,7 @@
+export const addbatteryfactory='ADD_BATTERYFACTORY'
+export const addsoldierfactory='ADD_SOLDIERFACTORY'
+export const adddiamondfactory='ADD_DIAMONDFACTORY'
+export const addwarchariotfactory='ADD_WARCHARIOTFACTORY'
+export const addairforcefactory='ADD_AIRFORCEFACTORY'
+export const addfightlaboratory='ADD_FIGHTLABORATORY'
+export const addnuclearfactory='ADD_NUCLEARFACTORY'
